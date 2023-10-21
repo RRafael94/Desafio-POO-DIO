@@ -1,7 +1,7 @@
 # Desafio-POO-DIO
 Desafio POO: Orientação a Objetos e UML: Diagramação de Classes do iPhone
 
-(Obs: O diagrama de classe e  a classe estão localizados na past src.)
+(Obs: O diagrama de classe e  a classe estão localizados na past src).
 # DIO - Trilha Java Básico
 www.dio.me
 
